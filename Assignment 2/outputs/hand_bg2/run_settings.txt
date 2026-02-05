@@ -1,7 +1,0 @@
-img_path=hand_bg2.jpg
-reps=100
-seed=1
-prob_thresh=0.6
-max_side=900
-skin_top_m=1
-skin_override=None
