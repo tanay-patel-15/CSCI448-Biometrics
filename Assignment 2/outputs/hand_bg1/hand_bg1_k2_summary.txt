@@ -1,0 +1,7 @@
+Image: hand_bg1
+k: 2
+mean centroids (R,G,B):
+[[ 65.39551   59.638557  54.16696 ]
+ [192.72267  138.39299  111.40337 ]]
+skin clusters (auto/override): [1]
+skin prob threshold: saved in run log
